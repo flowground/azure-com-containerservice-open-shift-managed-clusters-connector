@@ -5,7 +5,7 @@
 A generated **flow**ground connector for the ContainerServiceClient API (version 2018-09-30-preview).
 
 Generated from: https://api.apis.guru/v2/specs/azure.com/containerservice-openShiftManagedClusters/2018-09-30-preview/swagger.json<br/>
-Generated at: 2019-05-07T17:37:52+03:00
+Generated at: 2019-06-11T18:13:50+03:00
 
 ## API Description
 
